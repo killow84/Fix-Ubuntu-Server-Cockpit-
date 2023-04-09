@@ -1,7 +1,7 @@
 # Fix Ubuntu Server Cockpit
-## How to: Fix Ubuntu Server 19 “Cockpit Cannot refresh cache whilst offline” and “Cannot refresh cache whilst offline” Errors
+## How to: Fix Ubuntu Server “Cockpit Cannot refresh cache whilst offline” and “Cannot refresh cache whilst offline” Errors
 
-The Error
+### The Error
 
 When cockpit is installed on Ubuntu Server  we might get following errors
 

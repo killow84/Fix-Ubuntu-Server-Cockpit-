@@ -1,3 +1,4 @@
+![Octocat](https://user-images.githubusercontent.com/66946245/230781504-af5ff2a1-db16-42a0-9dac-9401c7a857e5.png "Github logo") 
 # Fix Ubuntu Server Cockpit
 ## How to: Fix Ubuntu Server “Cockpit Cannot refresh cache whilst offline” and “Cannot refresh cache whilst offline” Errors
 
